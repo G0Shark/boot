@@ -9,4 +9,4 @@ mov [BOOT_DRIVE], dl
 mov bp, 0x9000
 mov sp, bp
 
-mov bx, 
+mov bx, 7
